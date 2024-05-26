@@ -6,8 +6,6 @@ V8 AsyncContext implementation
 https://docs.google.com/document/d/19gkKY6qC3L5X8WtSAmFq33iNnzeer1mL5495oT1owjY/edit#heading=h.mwad14vicl1e
 Deopt support for WebAssembly
 https://docs.google.com/document/d/1VxMGSR5NrGLeNmgn47N3k4Rs_FVfUnldH8Mk9saIEdA/edit#heading=h.n1atlriavj6v
-Maglev Escape Analysis
-https://docs.google.com/document/d/1ZK-3XpjdP4sPGk2-b87Ub9tkxYmP4f7tx7yC0rZZh6U/edit#heading=h.djws22xta9wz
 Deprecation of garbage collection handling in embedder fields
 https://docs.google.com/document/d/1-sBltmlx4yUIzmNHrRO9lKjqiN-uJ81gCmj9-Gq5d5w/edit#heading=h.ezifd2phyrlx
 
@@ -17,4 +15,14 @@ https://docs.google.com/document/d/e/2PACX-1vTwx4dFVn8RpuTZVfp10C96Ioto0_zaRCl76
 https://docs.google.com/document/d/e/2PACX-1vSmhEa4R8Cp2kUu5mg8Emn4sJn1iPr5blafpjayA5P5BaRAjP4dJrOrXHL2ujwYenly9aOrDmr6RiOO/pub
 https://docs.google.com/document/d/e/2PACX-1vROOt_dzEYaoSbWsRbXRSP91d5fwsElH5-puqqB2X9zCq6y0qxgw_EIytGlD_a8VBVEp8TGZOd99O6Y/pub
 
+
+https://buptsb.github.io/blog/post/CVE-2024-4947-%20v8%20incorrect%20AccessInfo%20for%20module%20namespace%20object%20causes%20Maglev%20type%20confusion.html
+https://docs.google.com/document/d/e/2PACX-1vSpCvBik81OppzMXbPjb0uRlWTdn4I1kttNSlbHtNMCT3xZJJiyKAsCcUxzNBimlBdXoKxrktlgJjOZ/pub
+https://gist.github.com/mistymntncop/2cb449eb6aa30d35d1afd78a8b06bac2
+https://buptsb.github.io/blog/post/CVE-2024-4761-%20v8%20missing%20check%20of%20WasmObject%20type%20cast%20causes%20type%20confusion%20and%20OOB%20access.html
+
+https://www.madstacks.dev/posts/Start-Your-Engines-Capturing-the-First-Flag-in-Google's-New-v8CTF/
+https://ctfiot.com/156419.html
 https://www.zerodayinitiative.com/blog/2024/5/2/cve-2024-2887-a-pwn2own-winning-bug-in-google-chrome
+https://zerodayengineering.com/insights/chrome-viz-v8-wasm.html
+https://lyra.horse/blog/2024/05/exploiting-v8-at-openecsc/
