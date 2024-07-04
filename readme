@@ -1,9 +1,18 @@
+Getting RCE in Chrome with incorrect side effect in the JIT compiler
+https://github.blog/2023-09-26-getting-rce-in-chrome-with-incorrect-side-effect-in-the-jit-compiler/
 
-https://docs.google.com/document/d/1a2YzIHsoI6zYVdXD_OF4aAiED2tE2ANSt0AOQ3DtVl4/edit
-https://docs.google.com/document/d/1ke0S2NrhPIo7VX2zpEKyMVURVOk-v22mNvAovlL6EeM/edit#heading=h.ksz9twl4bvwr
-https://docs.google.com/document/d/e/2PACX-1vTwx4dFVn8RpuTZVfp10C96Ioto0_zaRCl769CCx5eJXYNe967-_r44qixJA1H9Fr38biynxR22g7u9/pub
-https://docs.google.com/document/d/e/2PACX-1vSmhEa4R8Cp2kUu5mg8Emn4sJn1iPr5blafpjayA5P5BaRAjP4dJrOrXHL2ujwYenly9aOrDmr6RiOO/pub
-https://docs.google.com/document/d/e/2PACX-1vROOt_dzEYaoSbWsRbXRSP91d5fwsElH5-puqqB2X9zCq6y0qxgw_EIytGlD_a8VBVEp8TGZOd99O6Y/pub
+Getting RCE in Chrome with incomplete object initialization in the Maglev compiler
+https://github.blog/2023-10-17-getting-rce-in-chrome-with-incomplete-object-initialization-in-the-maglev-compiler/
+
+Google Chrome V8 CVE-2024-0517 Out-of-Bounds Write Code Execution
+https://blog.exodusintel.com/2024/01/19/google-chrome-v8-cve-2024-0517-out-of-bounds-write-code-execution/
+
+Start Your Engines - Capturing the First Flag in Google's New v8CTF
+https://www.madstacks.dev/posts/Start-Your-Engines-Capturing-the-First-Flag-in-Google's-New-v8CTF/
+https://ctfiot.com/156419.html
+
+Issue-1472121 : Exploit out-of-bound CloneObjectIC type confusion
+https://cwresearchlab.co.kr/entry/Issue-1472121-Exploit-out-of-bound-CloneObjectIC-type-confusion
 
 
 https://buptsb.github.io/blog/post/CVE-2024-4947-%20v8%20incorrect%20AccessInfo%20for%20module%20namespace%20object%20causes%20Maglev%20type%20confusion.html
@@ -13,9 +22,7 @@ https://buptsb.github.io/blog/post/CVE-2024-4761-%20v8%20missing%20check%20of%20
 https://buptsb.github.io/blog/post/issue-339736513-%20%5Bv8ctf%20M125%5D%20v8%20missing%20check%20of%20WasmObject%20type%20causing%20IC%20type%20confusion%20and%20OOB%20access%20.html
 https://buptsb.github.io/blog/post/CVE-2024-5830-%20incorrect%20handing%20of%20deprecated%20map%20in%20%5B%5BCreateDataProperty%5D%5D%20%20.html
 
-https://www.madstacks.dev/posts/Start-Your-Engines-Capturing-the-First-Flag-in-Google's-New-v8CTF/
-https://ctfiot.com/156419.html
-https://cwresearchlab.co.kr/entry/Issue-1472121-Exploit-out-of-bound-CloneObjectIC-type-confusion
+
 https://www.zerodayinitiative.com/blog/2024/5/2/cve-2024-2887-a-pwn2own-winning-bug-in-google-chrome
 https://zerodayengineering.com/insights/chrome-viz-v8-wasm.html
 https://lyra.horse/blog/2024/05/exploiting-v8-at-openecsc/
